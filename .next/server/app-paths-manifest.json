@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/authentication/[...nextauth]/route": "app/authentication/[...nextauth]/route.js",
+  "/(AddEditPost)/edit/[articleId]/page": "app/(AddEditPost)/edit/[articleId]/page.js",
+  "/(AddEditPost)/create/page": "app/(AddEditPost)/create/page.js",
+  "/(main)/[username]/articles/page": "app/(main)/[username]/articles/page.js",
+  "/(main)/login/page": "app/(main)/login/page.js",
+  "/(main)/article/edit/[articleid]/page": "app/(main)/article/edit/[articleid]/page.js",
+  "/(main)/[username]/bookmarks/page": "app/(main)/[username]/bookmarks/page.js",
+  "/(main)/[username]/settings/page": "app/(main)/[username]/settings/page.js",
+  "/(main)/explore/page": "app/(main)/explore/page.js",
+  "/(main)/page": "app/(main)/page.js",
+  "/(main)/preview/[previewSlug]/page": "app/(main)/preview/[previewSlug]/page.js",
+  "/(main)/search/page": "app/(main)/search/page.js",
+  "/(main)/secret/admin/page": "app/(main)/secret/admin/page.js",
+  "/(main)/signup/page": "app/(main)/signup/page.js",
+  "/(main)/verification/page": "app/(main)/verification/page.js",
+  "/(main)/[username]/[slug]/page": "app/(main)/[username]/[slug]/page.js",
+  "/(main)/[username]/followers/page": "app/(main)/[username]/followers/page.js",
+  "/test/page": "app/test/page.js",
+  "/(main)/[username]/following/page": "app/(main)/[username]/following/page.js",
+  "/(main)/[username]/page": "app/(main)/[username]/page.js"
+}
